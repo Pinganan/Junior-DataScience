@@ -10,6 +10,6 @@
 ## part2
 結合line notify 實作室內人數計算
 
-[報告影片]()
+[報告影片](https://youtu.be/bUOy8lNbL5Q)
 
 [實作影片](https://youtu.be/zsPA2eqkiqY)
