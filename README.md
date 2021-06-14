@@ -13,3 +13,8 @@
 [報告影片](https://youtu.be/bUOy8lNbL5Q)
 
 [實作影片](https://youtu.be/zsPA2eqkiqY)
+
+## part3
+聊天機器人 ——  跨年代的音樂推薦
+
+[報告影片](https://youtu.be/331XDONjkZA)
