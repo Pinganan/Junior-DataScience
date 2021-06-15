@@ -1,0 +1,19 @@
+*** 1. 安裝及啟動虛擬環境 ***
+conda create -n DataSciencePart3 python=3.7.7
+activate DataSciencePart3 
+
+*** 2. 安裝套件 ***
+pip install ckiptagger
+pip install tensorflow-gpu==1.14.0
+pip3 install gdown
+pip install scipy
+pip install gensim==3.8.0
+pip install sklearn
+
+*** 3. 執行程式 ***
+python UI.py
+
+**********************************
+4. 啟動程式
+activate DataSciencePart3
+python UI.py
