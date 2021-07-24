@@ -1,5 +1,6 @@
 # Junior-DataScience
 大三資料科學課程
+[被上傳惹](https://demox.tw/idea/detail/?id=156)
 
 ## part1
 資料圖像化分析
